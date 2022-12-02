@@ -1,3 +1,5 @@
+ITALIAN :: name of the god/divinity followed by an abjective
+
 
 porco dio
 porca madonna
@@ -14,3 +16,9 @@ dio banana
 dio ubriaco
 mannaggia a san gesaldo
 san gennaro bocchinaro
+dio impanato
+
+ecc.
+
+
+ENGLISH
